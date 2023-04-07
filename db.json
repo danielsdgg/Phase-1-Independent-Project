@@ -1,0 +1,111 @@
+{
+  "games": [
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "name": "",
+      "description": "",
+      "runtime": "",
+      "image": "",
+      "id": "4"
+    },
+    {
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "name": "Hockey",
+      "description": "A player should be well balanced and quick as well",
+      "runtime": "60",
+      "image": "https://www.mykhel.com/img/2023/01/indianmenshockeyteam-1674145362.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Wrestling",
+      "description": "Body stamina, physical strength and never giving up attitude are key factors in this game",
+      "runtime": "45",
+      "image": "https://wastedtalentinc.com/wp-content/uploads/2021/09/IMG_0242-758x1024.jpg"
+    },
+    {
+      "name": "",
+      "description": "",
+      "runtime": "",
+      "image": "",
+      "id": "8"
+    },
+    {
+      "name": "",
+      "description": "",
+      "runtime": "",
+      "image": "",
+      "id": "9"
+    },
+    {
+      "name": "",
+      "description": "",
+      "runtime": "",
+      "image": "",
+      "id": "10"
+    },
+    {
+      "name": "",
+      "description": "",
+      "runtime": "",
+      "image": "",
+      "id": "08lb2Vc"
+    },
+    {
+      "name": "",
+      "description": "",
+      "runtime": "",
+      "image": "",
+      "id": "A9WjlpK"
+    },
+    {
+      "name": "",
+      "description": "",
+      "runtime": "",
+      "image": "",
+      "id": "0wqdEwL"
+    },
+    {
+      "name": "",
+      "description": "",
+      "runtime": "",
+      "image": "",
+      "id": "cRFZ_30"
+    },
+    {
+      "name": "",
+      "description": "",
+      "runtime": "",
+      "image": "",
+      "id": "BSN3maF"
+    },
+    {
+      "name": "Chess",
+      "description": "mind games",
+      "runtime": "56",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/800px-ChessSet.jpg",
+      "id": "Qd2di0t"
+    },
+    {
+      "name": "bike racing",
+      "description": "get ready for speed",
+      "runtime": "100",
+      "image": "https://storage.googleapis.com/ti-thebikeinsurer/media-gallery/2022/09/motorbike-rider-racing.jpeg",
+      "id": "AzT3BB4"
+    },
+    {
+      "name": "football",
+      "description": "Great stamina and speed are key factors here",
+      "runtime": "90",
+      "image": "https://e0.pxfuel.com/wallpapers/635/652/desktop-wallpaper-adik1910-ronaldo-coming-out-in-few-days-ronaldo-bicycle-kick.jpg",
+      "id": "Absion_"
+    }
+  ]
+}
