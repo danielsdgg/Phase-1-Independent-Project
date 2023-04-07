@@ -1,0 +1,120 @@
+header{
+    color: whitesmoke;
+    text-align: center;
+    background-color: red;
+    font-size: 45px;
+}
+
+h3{
+    text-align: center;
+    color: rgb(6, 8, 104);
+    text-decoration:underline overline;
+
+}
+
+#contain{
+    cursor: pointer;
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+input[id=btn3]{
+    background-color: lightblue;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 10px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+}
+
+input[id=btn3]:hover{
+    background-color: blue;
+}
+
+input[type=submit]{
+    background-color: lightblue;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 10px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+
+}
+
+input[type=submit]:hover{
+    background-color: blue;
+}
+
+input[id=game]{
+    width:30%;
+    height:30%;
+}
+
+input[type=text]{
+    width: 60%;
+    height: 40%;
+}
+
+img{
+    border-radius: 100px;
+    width: 450px;
+    height:450px;
+}
+
+button{
+    background-color: lightgreen;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 13px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+
+}
+
+button:hover {
+    background-color: green;
+    color: white;
+  }
+
+button[id=delete-btn]{
+    background-color: brown;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+button[id=delete-btn]:hover{
+    background-color: red;
+}
+
+button[id=update-btn]{
+    background-color: lightsalmon;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+button[id=update-btn]:hover{
+    background-color: darkorange
+}
+
+body{
+    background-color: gray;
+    font-size: 35px;
+    font-style: italic;
+}
+footer{
+    color: whitesmoke;
+    background-color: red;
+    font-size: 45px;
+    text-align: center;
+}
